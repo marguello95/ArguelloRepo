@@ -12,12 +12,17 @@ Recieved bachelors Degree from the University of Rhode Island.<br />
 Bachelors in Environmental Science and Management. <br />
 <br />
 Gained interest in hydrology as undergraduate.<br />
-Worked in Hydrology lab collecting field samples and analyzing in lab. <br />
+Worked in Hydrology lab studying riperian areas on turf farms.<br />
+Collected field samples of groundwater and GHG and analyzed in lab. <br />
+<br />
+![Image of RipZone](https://bloximages.newyork1.vip.townnews.com/hampshirereview.com/content/tncms/assets/v3/editorial/b/3c/b3c33a90-ca75-11e5-b9b7-1f05dd3530e1/56b1f968f3958.image.jpg?resize=400%2C247)
+<br />
 <br />
 Returned to URI for Masters Degree with focus on wetland and watershed research. <br />
 <br />
 
-**Learning Goals:** <br />
+**Learning Goals For This Course:** <br />
 
 1. Bascis of Python coding language <br /> 
-2. How to intergrate python with ArcGIS
+2. How to intergrate python with ArcGIS <br /> 
+3. Connect python to area of study (Wetland and watershed data)
