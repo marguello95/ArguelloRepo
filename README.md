@@ -5,7 +5,7 @@
 **University of Rhode Island:**
 **1st Year [MESM](https://web.uri.edu/cels-gradprograms/mesm/#) Student** 
 
-Field of Study: **Wetland, Watershed and Ecosystem Track**
+Field of Study: **Wetland, Watershed and Ecosystem Track**<br />
 
 **Background:**<br />
 Recieved bachelors Degree from the University of Rhode Island.<br />
