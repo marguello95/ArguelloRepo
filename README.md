@@ -19,7 +19,8 @@ Collected field samples of groundwater and GHG and analyzed in lab. <br />
 ![Image of RipZone](https://bloximages.newyork1.vip.townnews.com/hampshirereview.com/content/tncms/assets/v3/editorial/b/3c/b3c33a90-ca75-11e5-b9b7-1f05dd3530e1/56b1f968f3958.image.jpg?resize=400%2C247)
 <br />
 <br />
-Returned to URI for Masters Degree with focus on wetland and watershed research. <br />
+Returned to URI for Masters Degree with focus on wetland and watershed research <br />
+and obtain the GIS certificate.
 
 <br />
 
