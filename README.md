@@ -25,4 +25,4 @@ Returned to URI for Masters Degree with focus on wetland and watershed research.
 
 1. Bascis of Python coding language <br /> 
 2. How to intergrate python with ArcGIS <br /> 
-3. Connect python to area of study (Wetland and watershed data)
+3. Connect python to area of study (Hydrology, wetland and watershed data)
