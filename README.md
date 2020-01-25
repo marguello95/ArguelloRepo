@@ -31,10 +31,8 @@ and obtain the GIS certificate.
 3. Connect python to area of study (Hydrology, wetland and watershed data)
 
 <br />
-<br />
 
 **Previously Taken Related Courses:**
-
 <br />
 
 Course Number | Course Title
