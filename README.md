@@ -27,3 +27,13 @@ Returned to URI for Masters Degree with focus on wetland and watershed research.
 1. Bascis of Python coding language <br /> 
 2. How to intergrate python with ArcGIS <br /> 
 3. Connect python to area of study (Hydrology, wetland and watershed data)
+<br />
+<br />
+**Previous Related Courses**
+<br />
+
+Course Number | Course Title
+------------ | -------------
+NRS 409 | Concepts in GIS and Remote Sensing
+NRS 410 | Fundamentals of GIS
+NRS 522 | Advanced Gis Analysis Of Environmental Data
