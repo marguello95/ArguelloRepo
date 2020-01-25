@@ -20,6 +20,7 @@ Collected field samples of groundwater and GHG and analyzed in lab. <br />
 <br />
 <br />
 Returned to URI for Masters Degree with focus on wetland and watershed research. <br />
+
 <br />
 
 **Learning Goals For This Course:** <br />
@@ -27,9 +28,12 @@ Returned to URI for Masters Degree with focus on wetland and watershed research.
 1. Bascis of Python coding language <br /> 
 2. How to intergrate python with ArcGIS <br /> 
 3. Connect python to area of study (Hydrology, wetland and watershed data)
+
 <br />
 <br />
-**Previous Related Courses**
+
+**Previously Taken Related Courses:**
+
 <br />
 
 Course Number | Course Title
