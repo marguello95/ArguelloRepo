@@ -26,7 +26,7 @@ and obtain the GIS certificate.
 
 **Learning Goals For This Course:** <br />
 
-1. Bascis of Python coding language <br /> 
+1. Basics of Python coding language <br /> 
 2. How to intergrate python with ArcGIS <br /> 
 3. Connect python to area of study (Hydrology, wetland and watershed data)
 
