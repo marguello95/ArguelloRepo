@@ -3,7 +3,7 @@ import csv
 
 arcpy.env.overwriteOutput = True
 
-# Set  workspace
+# Set  workspace for code
 arcpy.env.workspace = r"G:\Week_6_CC" #Workplace for all my files for this project on my computer
 
 
