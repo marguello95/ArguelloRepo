@@ -41,7 +41,7 @@ for spc in species_list:
                 file.write(string)
 
 
-#Code to create a shape file for each species list created above present
+#Code to create a shape file for each species present
 for spc in species_list:
     in_Table = spc[0:2] + ".csv"
     x_coords = "decLat"
