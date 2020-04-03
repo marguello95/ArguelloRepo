@@ -1,4 +1,4 @@
-#The created code will take input from 2 choosen shape files, the function will then:
+#The created code will take inputs from 2 choosen shape files, the function will then:
 #1.) Describes the shape type for each of the 2 shapefile that were used as the input from the data source
 #2.) Create a shape file with a 100 meter buffer for each of the 2 shape files
 
