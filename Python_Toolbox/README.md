@@ -1,6 +1,6 @@
 # Arguello Python Toolbox
  
-# Created by: **Michael Arguello**
+## Created by: **Michael Arguello**
 
 
  University of Rhode Island:
