@@ -1,10 +1,8 @@
 # Arguello Python Toolbox
  
 ## Created by: **Michael Arguello**
+## University of Rhode Island MESM Student:
 
-
- University of Rhode Island:
- 1st Year MESM Student, Wetland, Watershed and Ecosystem Track
 
 
 **Description of Toolbox:**
