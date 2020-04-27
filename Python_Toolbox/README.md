@@ -3,8 +3,8 @@
 
 ![Image of ArcGIS](https://en.wikipedia.org/wiki/File:ArcGIS_logo.png)
 
-**University of Rhode Island:**
-**1st Year MESM Student 
+# University of Rhode Island:
+# 1st Year MESM Student 
 
 Field of Study: **Wetland, Watershed and Ecosystem Track**<br />
 <br />
