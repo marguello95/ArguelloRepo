@@ -1,6 +1,6 @@
 # Arguello Python Toolbox
  
- Created by: **Michael Arguello**
+# Created by: **Michael Arguello**
 
 
  University of Rhode Island:
@@ -11,25 +11,32 @@
 
 This toolbox was created as a python toolbox
 
+
 **The toolbox includes the following 3 tool:**
+
 Tool | Tool Description 
 ------------ | -------------
 Buffer | Cretaes a 100 foot buffer around the input shapefile
 Intersect | Computes a geometric intersection of the input features
 Erase | Keeps portions of the input shapefiles falling outside the bondaries of the erase input shapefile and creates a new output feature class
 
+
 What each tool does:
 
 **Buffer Tool** takes an input shapefile and creates a 100 foot buffer around it in the output shapefile. With the example data used the tool takes the wetland shapefile and creates a 100 foot buffer around each wetland feature for all of Rhode Island.
 
+
 **Intersect Tool** takes **2** input shapefiles and computes a geometric intersection of the input features. For the example data provided this tool takes the wetland with 100 ft buffer shapefile and Rhode Island roads shapefile  and
 creates a line output shapefile of all roads that pass through the 100 ft buffers in Rhode Island.
 
+
 **Erase Tool** takes  **2** input shapefiles and Keeps portions of the input shapefiles falling outside the bondaries of the erase input shapefile and creates a new output feature class. For the example data provided this tool takes Rhode Island state shapefile as the input and wetland with 100ft buffer as erase shapefile. The output is Rhode Island shapefile minus all wetlands and the 100 ft buffer around each 
 
-These tools were built using sample data that was obtained from the RIGIS websit.
 
-Below you can find a table describing the sample data that was used to test each tool.
+These tools were built using sample data that was obtained from the RIGIS website.
+
+
+**Below you can find a table describing the sample data that was used to test each tool:**
 
 Data File Name | File Description 
 ------------ | -------------
