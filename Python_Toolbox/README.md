@@ -23,6 +23,7 @@ creates a line output shapefile of all roads that pass through the 100 ft buffer
 
 **Erase Tool** takes  **2** input shapefiles and Keeps portions of the input shapefiles falling outside the bondaries of the erase input shapefile and creates a new output feature class. For the example data provided this tool takes Rhode Island state shapefile as the input and wetland with 100ft buffer as erase shapefile. The output is Rhode Island shapefile minus all wetlands and the 100 ft buffer around each 
 
+
 These tools were built using sample data that was obtained from the RIGIS website.
 
 **Below you can find a table describing the sample data that was used to test each tool:**
